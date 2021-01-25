@@ -1,1 +1,3 @@
-# algoritmos
+# Algoritmos
+
+Learnig Algorithms
